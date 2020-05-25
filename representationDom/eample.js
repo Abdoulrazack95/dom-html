@@ -1,0 +1,1 @@
+// Example on how html in js
